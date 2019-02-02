@@ -12,5 +12,6 @@
 //
 //= require rails-ujs
 //= require activestorage
+//= require social-share-button
 //= require turbolinks
 //= require_tree .
